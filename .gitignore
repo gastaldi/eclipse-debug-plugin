@@ -8,6 +8,7 @@
 /*.ipr
 /*.iws
 /*.iml
+bin
 
 # These Eclipse files are not generated perfectly, so for now we commit them
 !.classpath
