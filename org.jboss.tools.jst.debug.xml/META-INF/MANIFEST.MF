@@ -5,6 +5,8 @@ Bundle-SymbolicName: org.jboss.tools.jst.debug.xml
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: org.jboss.tools.jst.debug.xml.Activator
 Bundle-Vendor: JBoss by Red Hat
-Require-Bundle: org.eclipse.core.runtime
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.debug.ui;bundle-version="3.7.0"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Bundle-ActivationPolicy: lazy
+Export-Package: org.jboss.tools.jst.debug.xml
