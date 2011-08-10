@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: JBoss Tools Eclipse Debug Plug-in
 Bundle-SymbolicName: org.jboss.tools.jst.debug.xml
 Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: org.jboss.tools.jst.debug.xml.Activator
+Bundle-Activator: org.jboss.tools.jst.debug.xml.DebugXmlPlugin
 Bundle-Vendor: JBoss by Red Hat
 Require-Bundle: org.eclipse.core.runtime,
  org.eclipse.debug.ui;bundle-version="3.7.0"
